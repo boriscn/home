@@ -1,0 +1,2 @@
+old     new
+pin1    PIN1
